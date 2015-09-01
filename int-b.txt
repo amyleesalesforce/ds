@@ -1,0 +1,2 @@
+This is another file.
+It has 2 lines.

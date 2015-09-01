@@ -1,4 +1,4 @@
-This is a file.
-It has 3 lines.
-Commit 3: this commit adds a line to A.
-This is the last.
+xThis is a file.
+xIt has 3 lines.
+xCommit 3: this commit adds a line to A.
+xThis is the last.
